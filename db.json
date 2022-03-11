@@ -1,0 +1,333 @@
+{
+   "games":[
+      {
+         "id":1,
+         "name":"Animals Trivia",
+         "level":1,
+         "description":"Do you know about animals? Prove it",
+         "questions":[
+            {
+               "question":"Which one is the fastest animal on earth?",
+               "type":"multiple",
+               "choices":[
+                  "Cheetah",
+                  "Elephant",
+                  "Turtle",
+                  "Cat"
+               ],
+               "correctAnswer":1
+            },
+            {
+               "question":"How much does an elephat weigh?",
+               "type":"multiple",
+               "choices":[
+                  "2000 kg",
+                  "4000 kg",
+                  "5500 kg",
+                  "10000 kg"
+               ],
+               "correctAnswer":2
+            },
+            {
+               "question":"Are bats mammals?",
+               "type":"yesno",
+               "correctAnswer":"yes"
+            }
+         ]
+      },
+      {
+         "id":2,
+         "name":"Geography Trivia",
+         "level":1,
+         "description":"Demonstrate how much you know about Geography",
+         "questions":[
+            {
+               "question":"What is Australia capital city?",
+               "type":"multiple",
+               "choices":[
+                  "Sydney",
+                  "Melbourne",
+                  "Perth",
+                  "Canberra"
+               ],
+               "correctAnswer":3
+            },
+            {
+               "question":"Which colors is Sweden flag?",
+               "type":"multiple",
+               "choices":[
+                  "Blue and yellow",
+                  "Red and white",
+                  "Blue and red",
+                  "Green and orange"
+               ],
+               "correctAnswer":0
+            },
+            {
+               "question":"South Africa shares borders with Angola",
+               "type":"yesno",
+               "correctAnswer":"no"
+            }
+         ]
+      },
+      {
+         "id":3,
+         "name":"Music Trivia",
+         "level":1,
+         "description":"Put your music knowledge to the test",
+         "questions":[
+            {
+               "question":"What is The Beatles first single?",
+               "type":"multiple",
+               "choices":[
+                  "Let it be",
+                  "Blackbird",
+                  "Love me do",
+                  "Yesterday"
+               ],
+               "correctAnswer":2
+            },
+            {
+               "question":"How many studio albums do Rolling Stones have?",
+               "type":"multiple",
+               "choices":[
+                  "20",
+                  "30",
+                  "40",
+                  "50"
+               ],
+               "correctAnswer":1
+            },
+            {
+               "question":"Stairway to Heaven was written only by Jimmy Page",
+               "type":"yesno",
+               "correctAnswer":"no"
+            }
+         ]
+      },
+      {
+         "id":4,
+         "name":"Movie Trivia",
+         "level":2,
+         "description":"Put your movie knowledge to the test",
+         "questions":[
+            {
+               "question":"Who was the director of Kill Bill?",
+               "type":"multiple",
+               "choices":[
+                  "Martin Scorsese",
+                  "David Lynch",
+                  "Quentin Tarantino",
+                  "Alfonso Cuaron"
+               ],
+               "correctAnswer":2
+            },
+            {
+               "question":"Which actor didnt star in The Departed",
+               "type":"multiple",
+               "choices":[
+                  "Mark Wahlberg",
+                  "Brad Pitt",
+                  "Matt Damon",
+                  "Leonardo Di Caprio"
+               ],
+               "correctAnswer":1
+            },
+            {
+               "question":"Stephen Spielberg directed Jurassic Park",
+               "type":"yesno",
+               "correctAnswer":"yes"
+            }
+         ]
+      },
+      {
+         "id":5,
+         "name":"Sports Trivia",
+         "level":2,
+         "description":"If you love sports, this game is for you",
+         "questions":[
+            {
+               "question":"Which olympic medallist is called The Baltimore Bullet",
+               "type":"multiple",
+               "choices":[
+                  "Usain Bolt",
+                  "Simone Biles",
+                  "Quentin Tarantino",
+                  "Michael Phelps"
+               ],
+               "correctAnswer":2
+            },
+            {
+               "question":"Which club won the Champions League in 2021",
+               "type":"multiple",
+               "choices":[
+                  "Chelsea F.C.",
+                  "Juventus",
+                  "Real Madrid",
+                  "PSG"
+               ],
+               "correctAnswer":0
+            },
+            {
+               "question":"Serena Williams has won more grand slams than Venus",
+               "type":"yesno",
+               "correctAnswer":"yes"
+            }
+         ]
+      },
+      {
+         "id":6,
+         "name":"Food Trivia",
+         "level":2,
+         "description":"Do you think you know about food? Lets find out",
+         "questions":[
+            {
+               "question":"How much caffeine needs to be taken out of coffee for it to be described as decaffeinated??",
+               "type":"multiple",
+               "choices":[
+                  "At least 50%",
+                  "At least 75%",
+                  "At least 97%",
+                  "At least 99%"
+               ],
+               "correctAnswer":2
+            },
+            {
+               "question":"What was the first food eaten in space?",
+               "type":"multiple",
+               "choices":[
+                  "Hot dog",
+                  "Scrumbled eggs",
+                  "Crackers",
+                  "Apple sauce"
+               ],
+               "correctAnswer":3
+            },
+            {
+               "question":"Honey cant go bad",
+               "type":"yesno",
+               "correctAnswer":"yes"
+            }
+         ]
+      },
+      {
+         "id":7,
+         "name":"Art Trivia",
+         "level":3,
+         "description":"A game for art lovers",
+         "questions":[
+            {
+               "question":"Who painted Woman with a Parasol?",
+               "type":"multiple",
+               "choices":[
+                  "Monet",
+                  "Rembrandt",
+                  "Manet",
+                  "Van Gogh"
+               ],
+               "correctAnswer":0
+            },
+            {
+               "question":"Who composed La Traviata",
+               "type":"multiple",
+               "choices":[
+                  "Bellini",
+                  "Verdi",
+                  "Mozart",
+                  "Wagner"
+               ],
+               "correctAnswer":1
+            },
+            {
+               "question":"Michelangelos La Pieta can be visited at the Uffizi Gallery in Florence",
+               "type":"yesno",
+               "correctAnswer":"no"
+            }
+         ]
+      },
+      {
+         "id":8,
+         "name":"History Trivia",
+         "level":3,
+         "description":"Do you think you know about history?",
+         "questions":[
+            {
+               "question":"What is the earliest surviving system of laws?",
+               "type":"multiple",
+               "choices":[
+                  "Hebrew Torah",
+                  "Code of Hammurabi",
+                  "Shabaka Stone",
+                  "Rosetta Stone"
+               ],
+               "correctAnswer":1
+            },
+            {
+               "question":" What was the last battle of the Napoleonic Wars?",
+               "type":"multiple",
+               "choices":[
+                  "Battle of Waterloo",
+                  "Battle of Trafalgar",
+                  "Battle of Wavre",
+                  "Battle of the Nile"
+               ],
+               "correctAnswer":1
+            },
+            {
+               "question":"Rome was the first city to reach a population of one million",
+               "type":"yesno",
+               "correctAnswer":"yes"
+            }
+         ]
+      },
+      {
+         "id":9,
+         "name":"Human Body Trivia",
+         "level":3,
+         "description":"Demonstrate how much you know about the human body",
+         "questions":[
+            {
+               "question":"How many joints are in the body?",
+               "type":"multiple",
+               "choices":[
+                  "150",
+                  "177",
+                  "201",
+                  "230"
+               ],
+               "correctAnswer":3
+            },
+            {
+               "question":"An eyelash lives about 150 days before it falls out.",
+               "type":"yesno",
+               "correctAnswer":"yes"
+            },
+            {
+               "question":"You use 43 muscles to smile and 14 to frown.",
+               "type":"yesno",
+               "correctAnswer":"no"
+            }
+         ]
+      }
+   ],
+   "levels":[
+      {
+         "id":1,
+         "name":"Animals Trivia",
+         "level":"Beginner",
+         "description":"Do you know about animals? Prove it"
+      },
+      {
+         "id":2,
+         "name":"Geography Trivia",
+         "level":"Medium",
+         "description":"Demonstrate how much you know about Geography"
+      },
+      {
+         "id":3,
+         "name":"Human Body Trivia",
+         "level":"Expert",
+         "description":"Demonstrate how much you know about the human body"
+      }
+   ]
+}
